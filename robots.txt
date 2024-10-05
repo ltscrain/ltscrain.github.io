@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ltscrain.github.io/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/app/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/assets/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/css/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/data/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/includes/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/item/sitemap.html.gz
+Sitemap: https://ltscrain.github.io/src/sitemap.html.gz
